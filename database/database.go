@@ -5,7 +5,6 @@ import (
 	"log"
 
 	"simple-rest-api/config"
-	"simple-rest-api/database/migration"
 
 	_ "github.com/lib/pq"
 )
